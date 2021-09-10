@@ -1,0 +1,40 @@
+body{
+    font-family: 'Original Surfer', cursive;
+    background-color: rgb(163, 208, 245);
+}
+
+.heading_div{
+    border: 2px red dotted;
+    background: white;
+    color: red;
+}
+
+.main_div{
+    margin-left: 350px;
+    padding: 10px;
+    margin-top: 15px;
+    border: white 5px solid;
+    background: rgb(163, 208, 245); 
+}
+
+.main_div label{
+    background: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+}
+
+
+.object_name_display_div{
+ bottom: 0;
+ position: fixed;
+ font-size: 23px;
+ background-color: wheat;
+ width: 100%;
+ text-align: center;
+}
+
+canvas{
+    margin-top: 75px;
+}
